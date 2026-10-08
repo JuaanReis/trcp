@@ -1,0 +1,2606 @@
+[
+  {
+    "id": "shop:clothes",
+    "label": "Lojas de roupas",
+    "group": "Comércio",
+    "keywords": [
+      "roupa moda vestuário"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "clothes"
+      }
+    ]
+  },
+  {
+    "id": "shop:shoes",
+    "label": "Calçados",
+    "group": "Comércio",
+    "keywords": [
+      "sapato tênis sapataria"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "shoes"
+      }
+    ]
+  },
+  {
+    "id": "shop:jewelry",
+    "label": "Joalherias",
+    "group": "Comércio",
+    "keywords": [
+      "joia aliança"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "jewelry"
+      }
+    ]
+  },
+  {
+    "id": "shop:watches",
+    "label": "Relógios",
+    "group": "Comércio",
+    "keywords": [
+      "relojoaria"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "watches"
+      }
+    ]
+  },
+  {
+    "id": "shop:bag",
+    "label": "Bolsas e malas",
+    "group": "Comércio",
+    "keywords": [
+      "mala mochila"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "bag"
+      }
+    ]
+  },
+  {
+    "id": "shop:boutique",
+    "label": "Boutiques",
+    "group": "Comércio",
+    "keywords": [
+      "moda"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "boutique"
+      }
+    ]
+  },
+  {
+    "id": "shop:fabric",
+    "label": "Tecidos",
+    "group": "Comércio",
+    "keywords": [
+      "tecido costura"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "fabric"
+      }
+    ]
+  },
+  {
+    "id": "shop:fashion_accessories",
+    "label": "Acessórios de moda",
+    "group": "Comércio",
+    "keywords": [
+      "bijuteria"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "fashion_accessories"
+      }
+    ]
+  },
+  {
+    "id": "shop:supermarket",
+    "label": "Supermercados",
+    "group": "Comércio",
+    "keywords": [
+      "mercado compras"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "supermarket"
+      }
+    ]
+  },
+  {
+    "id": "shop:convenience",
+    "label": "Lojas de conveniência",
+    "group": "Comércio",
+    "keywords": [
+      "mercearia"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "convenience"
+      }
+    ]
+  },
+  {
+    "id": "shop:bakery",
+    "label": "Padarias",
+    "group": "Comércio",
+    "keywords": [
+      "pão confeitaria"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "bakery"
+      }
+    ]
+  },
+  {
+    "id": "shop:butcher",
+    "label": "Açougues",
+    "group": "Comércio",
+    "keywords": [
+      "carne"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "butcher"
+      }
+    ]
+  },
+  {
+    "id": "shop:seafood",
+    "label": "Peixarias",
+    "group": "Comércio",
+    "keywords": [
+      "peixe"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "seafood"
+      }
+    ]
+  },
+  {
+    "id": "shop:greengrocer",
+    "label": "Hortifrutis",
+    "group": "Comércio",
+    "keywords": [
+      "fruta verdura sacolão"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "greengrocer"
+      }
+    ]
+  },
+  {
+    "id": "shop:deli",
+    "label": "Delicatessens",
+    "group": "Comércio",
+    "keywords": [
+      "frios"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "deli"
+      }
+    ]
+  },
+  {
+    "id": "shop:cheese",
+    "label": "Lojas de queijos",
+    "group": "Comércio",
+    "keywords": [
+      "queijo"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "cheese"
+      }
+    ]
+  },
+  {
+    "id": "shop:confectionery",
+    "label": "Docerias",
+    "group": "Comércio",
+    "keywords": [
+      "doce bala"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "confectionery"
+      }
+    ]
+  },
+  {
+    "id": "shop:chocolate",
+    "label": "Chocolaterias",
+    "group": "Comércio",
+    "keywords": [
+      "chocolate"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "chocolate"
+      }
+    ]
+  },
+  {
+    "id": "shop:coffee",
+    "label": "Lojas de café",
+    "group": "Comércio",
+    "keywords": [
+      "grão café"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "coffee"
+      }
+    ]
+  },
+  {
+    "id": "shop:tea",
+    "label": "Lojas de chá",
+    "group": "Comércio",
+    "keywords": [
+      "chá"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "tea"
+      }
+    ]
+  },
+  {
+    "id": "shop:alcohol",
+    "label": "Lojas de bebidas",
+    "group": "Comércio",
+    "keywords": [
+      "vinho cerveja adega"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "alcohol"
+      }
+    ]
+  },
+  {
+    "id": "shop:beverages",
+    "label": "Distribuidoras de bebidas",
+    "group": "Comércio",
+    "keywords": [
+      "bebida"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "beverages"
+      }
+    ]
+  },
+  {
+    "id": "shop:health_food",
+    "label": "Alimentos naturais",
+    "group": "Comércio",
+    "keywords": [
+      "natural orgânico"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "health_food"
+      }
+    ]
+  },
+  {
+    "id": "shop:frozen_food",
+    "label": "Alimentos congelados",
+    "group": "Comércio",
+    "keywords": [
+      "congelado"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "frozen_food"
+      }
+    ]
+  },
+  {
+    "id": "shop:hairdresser",
+    "label": "Cabeleireiros",
+    "group": "Comércio",
+    "keywords": [
+      "cabelo salão barbeiro"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "hairdresser"
+      }
+    ]
+  },
+  {
+    "id": "shop:beauty",
+    "label": "Salões de beleza",
+    "group": "Comércio",
+    "keywords": [
+      "estética manicure unha"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "beauty"
+      }
+    ]
+  },
+  {
+    "id": "shop:cosmetics",
+    "label": "Cosméticos",
+    "group": "Comércio",
+    "keywords": [
+      "maquiagem perfume"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "cosmetics"
+      }
+    ]
+  },
+  {
+    "id": "shop:perfumery",
+    "label": "Perfumarias",
+    "group": "Comércio",
+    "keywords": [
+      "perfume"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "perfumery"
+      }
+    ]
+  },
+  {
+    "id": "shop:optician",
+    "label": "Óticas",
+    "group": "Comércio",
+    "keywords": [
+      "óculos lente"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "optician"
+      }
+    ]
+  },
+  {
+    "id": "shop:hearing_aids",
+    "label": "Aparelhos auditivos",
+    "group": "Comércio",
+    "keywords": [
+      "audição"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "hearing_aids"
+      }
+    ]
+  },
+  {
+    "id": "shop:medical_supply",
+    "label": "Produtos médicos",
+    "group": "Comércio",
+    "keywords": [
+      "hospitalar ortopédico"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "medical_supply"
+      }
+    ]
+  },
+  {
+    "id": "shop:massage",
+    "label": "Massagens",
+    "group": "Comércio",
+    "keywords": [
+      "massagem"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "massage"
+      }
+    ]
+  },
+  {
+    "id": "shop:car",
+    "label": "Concessionárias",
+    "group": "Comércio",
+    "keywords": [
+      "automóvel carro"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "car"
+      }
+    ]
+  },
+  {
+    "id": "shop:car_repair",
+    "label": "Oficinas mecânicas",
+    "group": "Comércio",
+    "keywords": [
+      "mecânico carro reparo"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "car_repair"
+      }
+    ]
+  },
+  {
+    "id": "shop:car_parts",
+    "label": "Autopeças",
+    "group": "Comércio",
+    "keywords": [
+      "peça automóvel"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "car_parts"
+      }
+    ]
+  },
+  {
+    "id": "shop:tyres",
+    "label": "Lojas de pneus",
+    "group": "Comércio",
+    "keywords": [
+      "pneu borracharia"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "tyres"
+      }
+    ]
+  },
+  {
+    "id": "shop:motorcycle",
+    "label": "Lojas de motos",
+    "group": "Comércio",
+    "keywords": [
+      "moto motocicleta"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "motorcycle"
+      }
+    ]
+  },
+  {
+    "id": "shop:motorcycle_repair",
+    "label": "Oficinas de motos",
+    "group": "Comércio",
+    "keywords": [
+      "moto reparo"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "motorcycle_repair"
+      }
+    ]
+  },
+  {
+    "id": "shop:bicycle",
+    "label": "Bicicletarias",
+    "group": "Comércio",
+    "keywords": [
+      "bicicleta bike"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "bicycle"
+      }
+    ]
+  },
+  {
+    "id": "shop:fuel",
+    "label": "Comércio de combustíveis",
+    "group": "Comércio",
+    "keywords": [
+      "combustível lenha"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "fuel"
+      }
+    ]
+  },
+  {
+    "id": "shop:computer",
+    "label": "Lojas de informática",
+    "group": "Comércio",
+    "keywords": [
+      "computador notebook pc"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "computer"
+      }
+    ]
+  },
+  {
+    "id": "shop:mobile_phone",
+    "label": "Lojas de celulares",
+    "group": "Comércio",
+    "keywords": [
+      "celular smartphone"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "mobile_phone"
+      }
+    ]
+  },
+  {
+    "id": "shop:electronics",
+    "label": "Eletrônicos",
+    "group": "Comércio",
+    "keywords": [
+      "eletrônico áudio vídeo"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "electronics"
+      }
+    ]
+  },
+  {
+    "id": "shop:appliance",
+    "label": "Eletrodomésticos",
+    "group": "Comércio",
+    "keywords": [
+      "geladeira fogão"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "appliance"
+      }
+    ]
+  },
+  {
+    "id": "shop:hifi",
+    "label": "Equipamentos de som",
+    "group": "Comércio",
+    "keywords": [
+      "som áudio"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "hifi"
+      }
+    ]
+  },
+  {
+    "id": "shop:radiotechnics",
+    "label": "Componentes eletrônicos",
+    "group": "Comércio",
+    "keywords": [
+      "componente circuito"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "radiotechnics"
+      }
+    ]
+  },
+  {
+    "id": "shop:furniture",
+    "label": "Lojas de móveis",
+    "group": "Comércio",
+    "keywords": [
+      "móvel sofá"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "furniture"
+      }
+    ]
+  },
+  {
+    "id": "shop:kitchen",
+    "label": "Móveis de cozinha",
+    "group": "Comércio",
+    "keywords": [
+      "cozinha planejados"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "kitchen"
+      }
+    ]
+  },
+  {
+    "id": "shop:bed",
+    "label": "Camas e colchões",
+    "group": "Comércio",
+    "keywords": [
+      "cama colchão"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "bed"
+      }
+    ]
+  },
+  {
+    "id": "shop:bathroom_furnishing",
+    "label": "Artigos para banheiro",
+    "group": "Comércio",
+    "keywords": [
+      "banheiro"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "bathroom_furnishing"
+      }
+    ]
+  },
+  {
+    "id": "shop:houseware",
+    "label": "Utilidades domésticas",
+    "group": "Comércio",
+    "keywords": [
+      "utensílio casa"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "houseware"
+      }
+    ]
+  },
+  {
+    "id": "shop:hardware",
+    "label": "Ferragens",
+    "group": "Comércio",
+    "keywords": [
+      "ferramenta parafuso"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "hardware"
+      }
+    ]
+  },
+  {
+    "id": "shop:doityourself",
+    "label": "Materiais para reforma",
+    "group": "Comércio",
+    "keywords": [
+      "construção reforma"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "doityourself"
+      }
+    ]
+  },
+  {
+    "id": "shop:paint",
+    "label": "Lojas de tintas",
+    "group": "Comércio",
+    "keywords": [
+      "tinta pintura"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "paint"
+      }
+    ]
+  },
+  {
+    "id": "shop:flooring",
+    "label": "Pisos e revestimentos",
+    "group": "Comércio",
+    "keywords": [
+      "piso revestimento"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "flooring"
+      }
+    ]
+  },
+  {
+    "id": "shop:lighting",
+    "label": "Iluminação",
+    "group": "Comércio",
+    "keywords": [
+      "lâmpada luminária"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "lighting"
+      }
+    ]
+  },
+  {
+    "id": "shop:curtain",
+    "label": "Cortinas",
+    "group": "Comércio",
+    "keywords": [
+      "cortina persiana"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "curtain"
+      }
+    ]
+  },
+  {
+    "id": "shop:garden_centre",
+    "label": "Centros de jardinagem",
+    "group": "Comércio",
+    "keywords": [
+      "jardim planta"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "garden_centre"
+      }
+    ]
+  },
+  {
+    "id": "shop:florist",
+    "label": "Floriculturas",
+    "group": "Comércio",
+    "keywords": [
+      "flor buquê"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "florist"
+      }
+    ]
+  },
+  {
+    "id": "shop:agrarian",
+    "label": "Produtos agropecuários",
+    "group": "Comércio",
+    "keywords": [
+      "agropecuária rural"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "agrarian"
+      }
+    ]
+  },
+  {
+    "id": "shop:pet",
+    "label": "Pet shops",
+    "group": "Comércio",
+    "keywords": [
+      "animal ração pet"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "pet"
+      }
+    ]
+  },
+  {
+    "id": "shop:pet_grooming",
+    "label": "Banho e tosa",
+    "group": "Comércio",
+    "keywords": [
+      "pet banho tosa"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "pet_grooming"
+      }
+    ]
+  },
+  {
+    "id": "shop:books",
+    "label": "Livrarias",
+    "group": "Comércio",
+    "keywords": [
+      "livro"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "books"
+      }
+    ]
+  },
+  {
+    "id": "shop:stationery",
+    "label": "Papelarias",
+    "group": "Comércio",
+    "keywords": [
+      "papel caderno"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "stationery"
+      }
+    ]
+  },
+  {
+    "id": "shop:copyshop",
+    "label": "Copiadoras",
+    "group": "Comércio",
+    "keywords": [
+      "xerox impressão"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "copyshop"
+      }
+    ]
+  },
+  {
+    "id": "shop:newsagent",
+    "label": "Bancas de jornais",
+    "group": "Comércio",
+    "keywords": [
+      "jornal revista"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "newsagent"
+      }
+    ]
+  },
+  {
+    "id": "shop:art",
+    "label": "Lojas de arte",
+    "group": "Comércio",
+    "keywords": [
+      "arte quadro"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "art"
+      }
+    ]
+  },
+  {
+    "id": "shop:craft",
+    "label": "Materiais de artesanato",
+    "group": "Comércio",
+    "keywords": [
+      "artesanato"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "craft"
+      }
+    ]
+  },
+  {
+    "id": "shop:musical_instrument",
+    "label": "Instrumentos musicais",
+    "group": "Comércio",
+    "keywords": [
+      "violão guitarra piano"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "musical_instrument"
+      }
+    ]
+  },
+  {
+    "id": "shop:music",
+    "label": "Lojas de música",
+    "group": "Comércio",
+    "keywords": [
+      "disco vinil"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "music"
+      }
+    ]
+  },
+  {
+    "id": "shop:toys",
+    "label": "Lojas de brinquedos",
+    "group": "Comércio",
+    "keywords": [
+      "brinquedo"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "toys"
+      }
+    ]
+  },
+  {
+    "id": "shop:sports",
+    "label": "Artigos esportivos",
+    "group": "Comércio",
+    "keywords": [
+      "esporte"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "sports"
+      }
+    ]
+  },
+  {
+    "id": "shop:outdoor",
+    "label": "Artigos para camping",
+    "group": "Comércio",
+    "keywords": [
+      "camping trilha"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "outdoor"
+      }
+    ]
+  },
+  {
+    "id": "shop:fishing",
+    "label": "Artigos de pesca",
+    "group": "Comércio",
+    "keywords": [
+      "pesca"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "fishing"
+      }
+    ]
+  },
+  {
+    "id": "shop:photo",
+    "label": "Lojas de fotografia",
+    "group": "Comércio",
+    "keywords": [
+      "foto câmera"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "photo"
+      }
+    ]
+  },
+  {
+    "id": "shop:gift",
+    "label": "Lojas de presentes",
+    "group": "Comércio",
+    "keywords": [
+      "presente lembrança"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "gift"
+      }
+    ]
+  },
+  {
+    "id": "shop:variety_store",
+    "label": "Lojas de variedades",
+    "group": "Comércio",
+    "keywords": [
+      "variedade bazar"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "variety_store"
+      }
+    ]
+  },
+  {
+    "id": "shop:department_store",
+    "label": "Lojas de departamentos",
+    "group": "Comércio",
+    "keywords": [
+      "departamento"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "department_store"
+      }
+    ]
+  },
+  {
+    "id": "shop:second_hand",
+    "label": "Lojas de usados",
+    "group": "Comércio",
+    "keywords": [
+      "usado brechó"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "second_hand"
+      }
+    ]
+  },
+  {
+    "id": "shop:antiques",
+    "label": "Antiquários",
+    "group": "Comércio",
+    "keywords": [
+      "antiguidade"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "antiques"
+      }
+    ]
+  },
+  {
+    "id": "shop:laundry",
+    "label": "Lavanderias",
+    "group": "Comércio",
+    "keywords": [
+      "lavar roupa"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "laundry"
+      }
+    ]
+  },
+  {
+    "id": "shop:dry_cleaning",
+    "label": "Lavagem a seco",
+    "group": "Comércio",
+    "keywords": [
+      "lavagem seco"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "dry_cleaning"
+      }
+    ]
+  },
+  {
+    "id": "shop:travel_agency",
+    "label": "Agências de viagens",
+    "group": "Comércio",
+    "keywords": [
+      "viagem turismo"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "travel_agency"
+      }
+    ]
+  },
+  {
+    "id": "shop:funeral_directors",
+    "label": "Funerárias",
+    "group": "Comércio",
+    "keywords": [
+      "funeral"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "funeral_directors"
+      }
+    ]
+  },
+  {
+    "id": "shop:trade",
+    "label": "Fornecedores profissionais",
+    "group": "Comércio",
+    "keywords": [
+      "atacado fornecedor"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "trade"
+      }
+    ]
+  },
+  {
+    "id": "shop:wholesale",
+    "label": "Atacadistas",
+    "group": "Comércio",
+    "keywords": [
+      "atacado"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "wholesale"
+      }
+    ]
+  },
+  {
+    "id": "shop:storage_rental",
+    "label": "Locação de armazenamento",
+    "group": "Comércio",
+    "keywords": [
+      "depósito self storage"
+    ],
+    "filters": [
+      {
+        "key": "shop",
+        "value": "storage_rental"
+      }
+    ]
+  },
+  {
+    "id": "amenity:restaurant",
+    "label": "Restaurantes",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "comida almoço jantar"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "restaurant"
+      }
+    ]
+  },
+  {
+    "id": "amenity:cafe",
+    "label": "Cafeterias",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "café lanche"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "cafe"
+      }
+    ]
+  },
+  {
+    "id": "amenity:fast_food",
+    "label": "Lanchonetes e fast food",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "hambúrguer lanche pizza"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "fast_food"
+      }
+    ]
+  },
+  {
+    "id": "amenity:bar",
+    "label": "Bares",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "bar bebida"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "bar"
+      }
+    ]
+  },
+  {
+    "id": "amenity:pub",
+    "label": "Pubs",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "cerveja pub"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "pub"
+      }
+    ]
+  },
+  {
+    "id": "amenity:ice_cream",
+    "label": "Sorveterias",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "sorvete gelato"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "ice_cream"
+      }
+    ]
+  },
+  {
+    "id": "amenity:food_court",
+    "label": "Praças de alimentação",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "alimentação"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "food_court"
+      }
+    ]
+  },
+  {
+    "id": "amenity:biergarten",
+    "label": "Jardins de cerveja",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "cervejaria"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "biergarten"
+      }
+    ]
+  },
+  {
+    "id": "amenity:pharmacy",
+    "label": "Farmácias",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "remédio drogaria"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "pharmacy"
+      }
+    ]
+  },
+  {
+    "id": "amenity:doctors",
+    "label": "Consultórios médicos",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "médico consulta"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "doctors"
+      }
+    ]
+  },
+  {
+    "id": "amenity:dentist",
+    "label": "Dentistas",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "dentista odontologia"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "dentist"
+      }
+    ]
+  },
+  {
+    "id": "amenity:clinic",
+    "label": "Clínicas",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "clínica saúde"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "clinic"
+      }
+    ]
+  },
+  {
+    "id": "amenity:hospital",
+    "label": "Hospitais",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "hospital saúde"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "hospital"
+      }
+    ]
+  },
+  {
+    "id": "amenity:veterinary",
+    "label": "Veterinários",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "veterinário animal"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "veterinary"
+      }
+    ]
+  },
+  {
+    "id": "amenity:bank",
+    "label": "Bancos",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "banco financeiro"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "bank"
+      }
+    ]
+  },
+  {
+    "id": "amenity:bureau_de_change",
+    "label": "Casas de câmbio",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "câmbio moeda"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "bureau_de_change"
+      }
+    ]
+  },
+  {
+    "id": "amenity:fuel",
+    "label": "Postos de combustível",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "posto gasolina diesel"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "fuel"
+      }
+    ]
+  },
+  {
+    "id": "amenity:car_wash",
+    "label": "Lava-rápidos",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "lavagem carro"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "car_wash"
+      }
+    ]
+  },
+  {
+    "id": "amenity:car_rental",
+    "label": "Locadoras de veículos",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "aluguel carro"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "car_rental"
+      }
+    ]
+  },
+  {
+    "id": "amenity:school",
+    "label": "Escolas",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "escola ensino"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "school"
+      }
+    ]
+  },
+  {
+    "id": "amenity:kindergarten",
+    "label": "Educação infantil",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "creche infantil"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "kindergarten"
+      }
+    ]
+  },
+  {
+    "id": "amenity:college",
+    "label": "Faculdades e ensino técnico",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "faculdade técnico"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "college"
+      }
+    ]
+  },
+  {
+    "id": "amenity:university",
+    "label": "Universidades",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "universidade graduação"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "university"
+      }
+    ]
+  },
+  {
+    "id": "amenity:language_school",
+    "label": "Escolas de idiomas",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "idioma inglês espanhol"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "language_school"
+      }
+    ]
+  },
+  {
+    "id": "amenity:driving_school",
+    "label": "Autoescolas",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "cnh direção"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "driving_school"
+      }
+    ]
+  },
+  {
+    "id": "amenity:music_school",
+    "label": "Escolas de música",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "música aula"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "music_school"
+      }
+    ]
+  },
+  {
+    "id": "amenity:childcare",
+    "label": "Cuidados infantis",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "creche berçário"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "childcare"
+      }
+    ]
+  },
+  {
+    "id": "amenity:cinema",
+    "label": "Cinemas",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "cinema filme"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "cinema"
+      }
+    ]
+  },
+  {
+    "id": "amenity:theatre",
+    "label": "Teatros",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "teatro espetáculo"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "theatre"
+      }
+    ]
+  },
+  {
+    "id": "amenity:nightclub",
+    "label": "Casas noturnas",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "balada discoteca"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "nightclub"
+      }
+    ]
+  },
+  {
+    "id": "amenity:casino",
+    "label": "Cassinos",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "cassino"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "casino"
+      }
+    ]
+  },
+  {
+    "id": "amenity:community_centre",
+    "label": "Centros comunitários",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "comunitário eventos"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "community_centre"
+      }
+    ]
+  },
+  {
+    "id": "amenity:conference_centre",
+    "label": "Centros de conferências",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "conferência congresso"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "conference_centre"
+      }
+    ]
+  },
+  {
+    "id": "amenity:post_office",
+    "label": "Agências dos correios",
+    "group": "Alimentação, saúde e serviços",
+    "keywords": [
+      "correio postagem"
+    ],
+    "filters": [
+      {
+        "key": "amenity",
+        "value": "post_office"
+      }
+    ]
+  },
+  {
+    "id": "craft:carpenter",
+    "label": "Carpintarias",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "carpinteiro madeira"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "carpenter"
+      }
+    ]
+  },
+  {
+    "id": "craft:electrician",
+    "label": "Eletricistas",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "elétrica instalação"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "electrician"
+      }
+    ]
+  },
+  {
+    "id": "craft:plumber",
+    "label": "Encanadores",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "encanamento hidráulica"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "plumber"
+      }
+    ]
+  },
+  {
+    "id": "craft:painter",
+    "label": "Pintores",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "pintura parede"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "painter"
+      }
+    ]
+  },
+  {
+    "id": "craft:roofer",
+    "label": "Serviços de telhados",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "telhado"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "roofer"
+      }
+    ]
+  },
+  {
+    "id": "craft:stonemason",
+    "label": "Marmorarias e trabalhos em pedra",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "mármore granito pedra"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "stonemason"
+      }
+    ]
+  },
+  {
+    "id": "craft:metal_construction",
+    "label": "Construções metálicas",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "serralheria metal"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "metal_construction"
+      }
+    ]
+  },
+  {
+    "id": "craft:welder",
+    "label": "Soldadores",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "solda"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "welder"
+      }
+    ]
+  },
+  {
+    "id": "craft:locksmith",
+    "label": "Chaveiros",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "chave fechadura"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "locksmith"
+      }
+    ]
+  },
+  {
+    "id": "craft:tailor",
+    "label": "Alfaiatarias",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "alfaiate ajuste roupa"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "tailor"
+      }
+    ]
+  },
+  {
+    "id": "craft:shoemaker",
+    "label": "Sapateiros",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "conserto sapato"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "shoemaker"
+      }
+    ]
+  },
+  {
+    "id": "craft:upholsterer",
+    "label": "Tapeçarias",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "estofado sofá"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "upholsterer"
+      }
+    ]
+  },
+  {
+    "id": "craft:photographer",
+    "label": "Fotógrafos",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "fotografia ensaio"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "photographer"
+      }
+    ]
+  },
+  {
+    "id": "craft:printer",
+    "label": "Gráficas",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "gráfica impressão"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "printer"
+      }
+    ]
+  },
+  {
+    "id": "craft:bookbinder",
+    "label": "Encadernação",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "encadernar livro"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "bookbinder"
+      }
+    ]
+  },
+  {
+    "id": "craft:pottery",
+    "label": "Cerâmicas artesanais",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "cerâmica"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "pottery"
+      }
+    ]
+  },
+  {
+    "id": "craft:jeweller",
+    "label": "Fabricação de joias",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "ourives joia"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "jeweller"
+      }
+    ]
+  },
+  {
+    "id": "craft:gardener",
+    "label": "Jardineiros",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "jardinagem paisagismo"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "gardener"
+      }
+    ]
+  },
+  {
+    "id": "craft:cleaning",
+    "label": "Serviços de limpeza",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "limpeza faxina"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "cleaning"
+      }
+    ]
+  },
+  {
+    "id": "craft:brewery",
+    "label": "Cervejarias produtoras",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "cerveja produção"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "brewery"
+      }
+    ]
+  },
+  {
+    "id": "craft:winery",
+    "label": "Vinícolas",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "vinho produção"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "winery"
+      }
+    ]
+  },
+  {
+    "id": "craft:caterer",
+    "label": "Buffets e catering",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "buffet festa comida"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "caterer"
+      }
+    ]
+  },
+  {
+    "id": "craft:hvac",
+    "label": "Climatização",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "ar condicionado refrigeração"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "hvac"
+      }
+    ]
+  },
+  {
+    "id": "craft:window_construction",
+    "label": "Fabricação de janelas",
+    "group": "Ofícios e produção",
+    "keywords": [
+      "janela esquadria"
+    ],
+    "filters": [
+      {
+        "key": "craft",
+        "value": "window_construction"
+      }
+    ]
+  },
+  {
+    "id": "office:accountant",
+    "label": "Contabilidade",
+    "group": "Escritórios",
+    "keywords": [
+      "contador contábil"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "accountant"
+      }
+    ]
+  },
+  {
+    "id": "office:lawyer",
+    "label": "Advocacia",
+    "group": "Escritórios",
+    "keywords": [
+      "advogado jurídico"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "lawyer"
+      }
+    ]
+  },
+  {
+    "id": "office:estate_agent",
+    "label": "Imobiliárias",
+    "group": "Escritórios",
+    "keywords": [
+      "imóvel aluguel corretor"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "estate_agent"
+      }
+    ]
+  },
+  {
+    "id": "office:insurance",
+    "label": "Seguradoras e corretores",
+    "group": "Escritórios",
+    "keywords": [
+      "seguro"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "insurance"
+      }
+    ]
+  },
+  {
+    "id": "office:architect",
+    "label": "Arquitetura",
+    "group": "Escritórios",
+    "keywords": [
+      "arquiteto projeto"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "architect"
+      }
+    ]
+  },
+  {
+    "id": "office:engineer",
+    "label": "Engenharia",
+    "group": "Escritórios",
+    "keywords": [
+      "engenheiro"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "engineer"
+      }
+    ]
+  },
+  {
+    "id": "office:it",
+    "label": "Empresas de tecnologia",
+    "group": "Escritórios",
+    "keywords": [
+      "software informática tecnologia"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "it"
+      }
+    ]
+  },
+  {
+    "id": "office:advertising_agency",
+    "label": "Agências de publicidade",
+    "group": "Escritórios",
+    "keywords": [
+      "publicidade marketing"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "advertising_agency"
+      }
+    ]
+  },
+  {
+    "id": "office:consulting",
+    "label": "Consultorias",
+    "group": "Escritórios",
+    "keywords": [
+      "consultoria"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "consulting"
+      }
+    ]
+  },
+  {
+    "id": "office:financial",
+    "label": "Serviços financeiros",
+    "group": "Escritórios",
+    "keywords": [
+      "financeiro investimento"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "financial"
+      }
+    ]
+  },
+  {
+    "id": "office:employment_agency",
+    "label": "Agências de emprego",
+    "group": "Escritórios",
+    "keywords": [
+      "emprego recrutamento"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "employment_agency"
+      }
+    ]
+  },
+  {
+    "id": "office:notary",
+    "label": "Cartórios e notários",
+    "group": "Escritórios",
+    "keywords": [
+      "cartório escritura"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "notary"
+      }
+    ]
+  },
+  {
+    "id": "office:coworking",
+    "label": "Coworkings",
+    "group": "Escritórios",
+    "keywords": [
+      "coworking escritório compartilhado"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "coworking"
+      }
+    ]
+  },
+  {
+    "id": "office:company",
+    "label": "Escritórios de empresas",
+    "group": "Escritórios",
+    "keywords": [
+      "empresa escritório"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "company"
+      }
+    ]
+  },
+  {
+    "id": "office:telecommunication",
+    "label": "Telecomunicações",
+    "group": "Escritórios",
+    "keywords": [
+      "internet telefonia"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "telecommunication"
+      }
+    ]
+  },
+  {
+    "id": "office:logistics",
+    "label": "Logística",
+    "group": "Escritórios",
+    "keywords": [
+      "transporte frete"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "logistics"
+      }
+    ]
+  },
+  {
+    "id": "office:surveyor",
+    "label": "Topografia",
+    "group": "Escritórios",
+    "keywords": [
+      "topógrafo medição"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "surveyor"
+      }
+    ]
+  },
+  {
+    "id": "office:travel_agent",
+    "label": "Escritórios de agentes de viagens",
+    "group": "Escritórios",
+    "keywords": [
+      "viagem turismo"
+    ],
+    "filters": [
+      {
+        "key": "office",
+        "value": "travel_agent"
+      }
+    ]
+  },
+  {
+    "id": "tourism:hotel",
+    "label": "Hotéis",
+    "group": "Turismo",
+    "keywords": [
+      "hotel hospedagem"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "hotel"
+      }
+    ]
+  },
+  {
+    "id": "tourism:motel",
+    "label": "Motéis",
+    "group": "Turismo",
+    "keywords": [
+      "motel"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "motel"
+      }
+    ]
+  },
+  {
+    "id": "tourism:hostel",
+    "label": "Hostels",
+    "group": "Turismo",
+    "keywords": [
+      "hostel albergue"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "hostel"
+      }
+    ]
+  },
+  {
+    "id": "tourism:guest_house",
+    "label": "Pousadas",
+    "group": "Turismo",
+    "keywords": [
+      "pousada hospedagem"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "guest_house"
+      }
+    ]
+  },
+  {
+    "id": "tourism:apartment",
+    "label": "Apartamentos de temporada",
+    "group": "Turismo",
+    "keywords": [
+      "temporada hospedagem"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "apartment"
+      }
+    ]
+  },
+  {
+    "id": "tourism:camp_site",
+    "label": "Campings",
+    "group": "Turismo",
+    "keywords": [
+      "camping acampamento"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "camp_site"
+      }
+    ]
+  },
+  {
+    "id": "tourism:chalet",
+    "label": "Chalés",
+    "group": "Turismo",
+    "keywords": [
+      "chalé hospedagem"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "chalet"
+      }
+    ]
+  },
+  {
+    "id": "tourism:museum",
+    "label": "Museus",
+    "group": "Turismo",
+    "keywords": [
+      "museu"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "museum"
+      }
+    ]
+  },
+  {
+    "id": "tourism:gallery",
+    "label": "Galerias de arte",
+    "group": "Turismo",
+    "keywords": [
+      "galeria arte"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "gallery"
+      }
+    ]
+  },
+  {
+    "id": "tourism:theme_park",
+    "label": "Parques temáticos",
+    "group": "Turismo",
+    "keywords": [
+      "parque diversão"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "theme_park"
+      }
+    ]
+  },
+  {
+    "id": "tourism:zoo",
+    "label": "Zoológicos",
+    "group": "Turismo",
+    "keywords": [
+      "zoológico"
+    ],
+    "filters": [
+      {
+        "key": "tourism",
+        "value": "zoo"
+      }
+    ]
+  },
+  {
+    "id": "leisure:fitness_centre",
+    "label": "Academias",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "academia musculação fitness"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "fitness_centre"
+      }
+    ]
+  },
+  {
+    "id": "leisure:sports_centre",
+    "label": "Centros esportivos",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "esporte quadra"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "sports_centre"
+      }
+    ]
+  },
+  {
+    "id": "leisure:swimming_pool",
+    "label": "Piscinas",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "piscina natação"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "swimming_pool"
+      }
+    ]
+  },
+  {
+    "id": "leisure:water_park",
+    "label": "Parques aquáticos",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "parque aquático"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "water_park"
+      }
+    ]
+  },
+  {
+    "id": "leisure:bowling_alley",
+    "label": "Boliches",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "boliche"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "bowling_alley"
+      }
+    ]
+  },
+  {
+    "id": "leisure:golf_course",
+    "label": "Campos de golfe",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "golfe"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "golf_course"
+      }
+    ]
+  },
+  {
+    "id": "leisure:miniature_golf",
+    "label": "Minigolfe",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "minigolfe"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "miniature_golf"
+      }
+    ]
+  },
+  {
+    "id": "leisure:amusement_arcade",
+    "label": "Fliperamas",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "fliperama arcade"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "amusement_arcade"
+      }
+    ]
+  },
+  {
+    "id": "leisure:dance",
+    "label": "Espaços de dança",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "dança"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "dance"
+      }
+    ]
+  },
+  {
+    "id": "leisure:escape_game",
+    "label": "Escape rooms",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "escape jogo"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "escape_game"
+      }
+    ]
+  },
+  {
+    "id": "leisure:sauna",
+    "label": "Saunas",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "sauna"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "sauna"
+      }
+    ]
+  },
+  {
+    "id": "leisure:horse_riding",
+    "label": "Centros de equitação",
+    "group": "Lazer e esporte",
+    "keywords": [
+      "cavalo equitação"
+    ],
+    "filters": [
+      {
+        "key": "leisure",
+        "value": "horse_riding"
+      }
+    ]
+  }
+]

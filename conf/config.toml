@@ -1,0 +1,17 @@
+[system]
+threads = 2
+parts = 2
+bounding_box = "-23.56, -46.65, -23.54, -46.63"
+
+[network]
+max_keepalive_connections = 20
+max_connections = 50
+http2 = true
+verify_ssl = true
+follow_redirects = true
+timeout = 5.0
+connect = 1.5
+read = 3.0
+rotate_ua = true
+retry_after = 1.0
+max_attempts = 3
